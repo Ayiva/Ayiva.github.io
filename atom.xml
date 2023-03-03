@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ayiva的博客</title>
   
-  
+  <subtitle>记录学习</subtitle>
   <link href="https://ayiva.github.io/atom.xml" rel="self"/>
   
   <link href="https://ayiva.github.io/"/>
