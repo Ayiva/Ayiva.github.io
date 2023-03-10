@@ -1,5 +1,13 @@
-https://ayiva.github.io/ACM/index.html
 https://ayiva.github.io/2023/03/03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
+https://ayiva.github.io/tags/index.html
+https://ayiva.github.io/categories/index.html
+https://ayiva.github.io/ACM/index.html
 https://ayiva.github.io/2023/02/26/blog/
 https://ayiva.github.io/2023/02/26/hello-world/
 https://ayiva.github.io/
+https://ayiva.github.io/tags/%E6%A0%88/
+https://ayiva.github.io/tags/%E5%93%88%E5%B8%8C/
+https://ayiva.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/
+https://ayiva.github.io/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/
+https://ayiva.github.io/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/
+https://ayiva.github.io/categories/ACM/
